@@ -1,0 +1,3 @@
+enum Sym{
+	LPAR, RPAR, INT, PLUS, MINUS, MULT, EOF; 
+}
